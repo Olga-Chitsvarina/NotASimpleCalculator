@@ -8,3 +8,4 @@ Challenges/Purposes and Plans:
 -   Create an algorithm that can be used in order to calculate sum, difference and product of two decimal numbers (which consist of             (2^15)-1 symbols).
 -   Can use ArrayList Data Structure only for the multiplication part of the algorithm, for the rest use String methods.
 -   Create GUI (Graphical User Interface).
+-   Create mechanism to produce random decimal numbers, which are consstructed un the following way:  x numbers before/after the point.
